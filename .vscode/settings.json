@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "eslint.run": "onSave",
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "eslint.codeActionsOnSave.mode": "problems"
+}

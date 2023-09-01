@@ -1,0 +1,27 @@
+@import '@fontsource/fira-mono';
+
+:root {
+	--primary-color: #FF1111;
+
+	/*
+	(Optional) declare any common variables here.
+	*/
+
+	/*
+	Related documentation:
+
+	https://developer.mozilla.org/en-US/docs/Web/CSS/--*
+	*/
+}
+
+main {
+	font-family: sans-serif;
+}
+
+/*
+(Optional) declare any utility classes here.
+*/
+
+.masked {
+	filter: brightness(0);
+}
